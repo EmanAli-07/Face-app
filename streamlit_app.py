@@ -34,4 +34,3 @@ if uploaded_file is not None:
         st.write("Prediction: Female")
     else:
         st.write("Prediction: Male")
-https://drive.google.com/file/d/1e90JT3vmdH_usiCykNW-9RbctHzRestA/view?usp=drive_link
