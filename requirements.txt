@@ -61,7 +61,6 @@ Pygments==2.18.0
 python-dateutil==2.9.0.post0
 python-slugify==8.0.4
 pytz==2024.1
-pywin32==306
 pyzmq==26.2.0
 referencing==0.35.1
 requests==2.32.3
@@ -97,3 +96,4 @@ tensorflow==2.12.0
 pillow==10.0.0
 numpy==1.26.0
 requests==2.31.0
+python==3.12.2
